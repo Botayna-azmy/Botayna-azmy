@@ -21,8 +21,12 @@ Here are some ideas to get you started:
 ##  Full stack Developer!!
 -  Hi 👋, I’m @Bothaina Azmy Full stack Developer
 - 👀 I’m interested in :<br>
+        ⚡ frontEnd <br>
+          &nbsp; &nbsp;✔️ Css : Bootstrap  <br>
+          &nbsp; &nbsp;✔️ Javascript : React.js  <br>
         ☕ BackEnd <br>
           &nbsp; &nbsp;✔️ Python : Computer vision | Sebron |Numpay |Modifier Scikit-Learn | Pandas | Matplotlib  <br>
+          &nbsp; &nbsp;✔️ PHP : laravel  <br>
           &nbsp; &nbsp;✔️ Tools : GIT | GITHUB <br>
           &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES | JENKINS <br> 
           &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
