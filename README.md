@@ -31,15 +31,12 @@ Here are some ideas to get you started:
           &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES | JENKINS <br> 
           &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
           &nbsp; &nbsp;✔️ Web Service : JSON | XML | YAML <br>
-          &nbsp; &nbsp;✔️ DateBases : MYSQL<br>
+          &nbsp; &nbsp;✔️ DateBases : MYSQL | SQL server | Mongodb<br>
         🤖 Artificial Intelligence <br>
           &nbsp; &nbsp;✔️ MACHINE LEARNING <br>
-          &nbsp; &nbsp;✔️ DEEP LEARNING <br>
           &nbsp; &nbsp;✔️ Computer vision <br>
-        
-- 🌱 I’m currently Ph.D. student in Full stack<br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
-- 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot and Computer Vision  <br>
+- 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot <br>
 - 📫 How to reach me : Email : bothainaazmy@gmail.com / Phone : +212 619076216 <br>
 
