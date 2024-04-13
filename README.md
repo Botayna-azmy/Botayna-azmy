@@ -37,6 +37,6 @@ Here are some ideas to get you started:
           &nbsp; &nbsp;✔️ Computer vision <br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
-- 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot <br>
+- 🥅 2025 Goals: Learn more about Java, Java Jee, Spring Boot <br>
 - 📫 How to reach me : Email : bothainaazmy@gmail.com / Phone : +212 619076216 <br>
 
