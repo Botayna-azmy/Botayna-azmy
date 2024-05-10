@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Bothaina Azmy 👋 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabouraya&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BothainaAzmy&theme=radical&show_icons=true)
 ##  Full stack Developer!!
 -  Hi 👋, I’m @Bothaina Azmy Full stack Developer
 - 👀 I’m interested in :<br>
@@ -27,13 +27,12 @@ Here are some ideas to get you started:
         ☕ BackEnd <br>
           &nbsp; &nbsp;✔️ Python : Computer vision | Sebron |Numpay |Modifier Scikit-Learn | Pandas | Matplotlib  <br>
           &nbsp; &nbsp;✔️ PHP : laravel  <br>
-          &nbsp; &nbsp;✔️ Tools : GIT | GITHUB <br>
+          &nbsp; &nbsp;✔️ Tools : GIT | GITHUB |Gitlap <br>
           &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES | JENKINS <br> 
           &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
-          &nbsp; &nbsp;✔️ Web Service : JSON | XML | YAML <br>
+          &nbsp; &nbsp;✔️ Web Service : JSON | XML<br>
           &nbsp; &nbsp;✔️ DateBases : MYSQL | SQL server | Mongodb<br>
         🤖 Artificial Intelligence <br>
-          &nbsp; &nbsp;✔️ MACHINE LEARNING <br>
           &nbsp; &nbsp;✔️ Computer vision <br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
