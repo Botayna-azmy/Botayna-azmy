@@ -1,25 +1,8 @@
 
-
-<!--
-**Botayna-azmy/Botayna-azmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there, I'm Bothaina Azmy 👋 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+# Hi there, I'm Bottayna Azmy 👋 
 ##  Full stack Developer!!
 -  Hi 👋, I’m @Bothaina Azmy Full stack Developer
+-    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 👀 I’m interested in :<br>
         ⚡ frontEnd <br>
           &nbsp; &nbsp;✔️ Css : Bootstrap  <br>
@@ -38,4 +21,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other companies like freelance <br>
 - 🥅 2025 Goals: Learn more about Java, Java Jee, Spring Boot <br>
 - 📫 How to reach me : Email : bottaynaazmy@gmail.com / Phone : +212 629388661 <br>
-
+## Stats
+![daniaalnadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Botayna-azmy&show_icons=true&theme=dracula&count_private=true)
+## 
+[![](https://img.shields.io/badge/-Botaynaazmy-%23181717?style=flat-square&logo=github)](https://github.com/Botayna-azmy)
+[![](https://img.shields.io/badge/-Bottayna%20Azmy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/botayna-azmy-5a3476240/)](https://www.linkedin.com/in/botayna-azmy-5a3476240/)
