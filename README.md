@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Bothaina Azmy 👋 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BothainaAzmy&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
 ##  Full stack Developer!!
 -  Hi 👋, I’m @Bothaina Azmy Full stack Developer
 - 👀 I’m interested in :<br>
