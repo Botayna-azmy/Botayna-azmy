@@ -1,8 +1,6 @@
-
-# Hi there, I'm Bottayna Azmy 👋 
 ##  Full stack Developer!!
--  Hi 👋, I’m @Bothaina Azmy Full stack Developer
--    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+-  Hi 👋, I’m Bottayna Azmy Full stack Developer
+   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 👀 I’m interested in :<br>
         ⚡ frontEnd <br>
           &nbsp; &nbsp;✔️ Css : Bootstrap  <br>
