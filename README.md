@@ -24,3 +24,9 @@
 ## 
 [![](https://img.shields.io/badge/-Botaynaazmy-%23181717?style=flat-square&logo=github)](https://github.com/Botayna-azmy)
 [![](https://img.shields.io/badge/-Bottayna%20Azmy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/botayna-azmy-5a3476240/)](https://www.linkedin.com/in/botayna-azmy-5a3476240/)
+
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Botayna-azmy&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
