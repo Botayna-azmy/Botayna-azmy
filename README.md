@@ -9,7 +9,6 @@
           &nbsp; &nbsp;✔️ Python : Computer vision | Sebron |Numpay |Modifier Scikit-Learn | Pandas | Matplotlib  <br>
           &nbsp; &nbsp;✔️ PHP : laravel  <br>
           &nbsp; &nbsp;✔️ Tools : GIT | GITHUB |Gitlap <br>
-          &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES | JENKINS <br> 
           &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
           &nbsp; &nbsp;✔️ Web Service : JSON | XML<br>
           &nbsp; &nbsp;✔️ DateBases : MYSQL | SQL server | Mongodb<br>
